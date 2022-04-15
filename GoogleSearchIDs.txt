@@ -1,0 +1,9 @@
+﻿# Program will skip lines tht begin with '#'
+#
+# After you have set-up Google Programmable Search enter information below
+# https://programmablesearchengine.google.com/cse/all
+#
+# Description			[tab]   Google Search Engine ID
+Search for *.club domains	004198196963401010009:b3gzjkmv88o
+Search for *.top domains	004198196963401010009:6sxvyyw0bvb
+# No blank lines
